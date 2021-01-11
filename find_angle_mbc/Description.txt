@@ -1,3 +1,9 @@
+Source:
+    
+    Hackerrank.com
+
+
+
 Problem:
 
     A right triangle ABC, with a midpoint on the hypotenuse, AC, called M. Given the lengths of AB and BC, find the angle MBC in degrees. 
@@ -15,5 +21,7 @@ Constraints:
     AB and BC are natural numbers
     0 <= AB <= 100
     0 <= BC <= 100
-
+    
+    
+  
     
