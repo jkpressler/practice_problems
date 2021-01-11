@@ -1,0 +1,25 @@
+Source:
+
+    Hackerrank.com
+
+
+
+Problem:
+
+    Given a positive integer N, print a panlindromic triangle of size N. Use only two lines.. one for-statement and one print statement.
+
+
+
+Input:
+
+    Single line of input containing an integer N
+
+
+
+Constraints:
+
+    0 < N < 10
+    Any code related to strings is not allowed
+    Only one for-statement is allowed
+
+ 
