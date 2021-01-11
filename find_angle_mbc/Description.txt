@@ -1,0 +1,19 @@
+Problem:
+
+    A right triangle ABC, with a midpoint on the hypotenuse, AC, called M. Given the lengths of AB and BC, find the angle MBC in degrees. 
+
+
+
+Input Format:
+
+    The first line is the length of side AB and second line contains the length of side BC.
+
+
+
+Constraints:
+
+    AB and BC are natural numbers
+    0 <= AB <= 100
+    0 <= BC <= 100
+
+    
