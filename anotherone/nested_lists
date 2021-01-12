@@ -1,0 +1,16 @@
+if __name__ == '__main__':
+    d = {}
+    for _ in range(int(input())):
+        name = str(input())
+        grade = float(input())
+        d[name] = grade
+    
+    g = d.values()
+    secondlowest = sorted(list(set(g)))[1]
+    who = []
+    for key, value in d.items():
+        if value == secondlowest:
+            who.append(key)
+    who.sort()
+    for names in who:
+        print (names)
