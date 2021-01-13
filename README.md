@@ -1,2 +1,2 @@
 # practice_problems
-Various practice problems I have completed so far :)
+Some of the various practice problems I have completed so far :)
