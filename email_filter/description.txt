@@ -1,0 +1,35 @@
+Source:
+
+    Hackerrank.com
+
+
+
+Problem:
+
+    Given an integer N followed by N emails, print the valid emails in lexicographical order.
+
+    Valid email addresses must follow these rules:
+
+    -It must have the username@websitename.extension format type.
+    -The username can only contain letters, digits, dashes and underscores.
+    -The website name can only have letters and digits.
+    -The maximum length of the extension is 3.
+
+
+
+Input:
+
+    An integer N followed by N emails.
+
+    Sample:
+
+        3
+        lara@hackerrank.com
+        brian-23@hackerrank.com
+        britts_54@hackerrank.com    
+
+
+
+Constraints:
+
+    Each line is a non-empty string.
