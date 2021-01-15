@@ -1,0 +1,28 @@
+Source:
+
+  Hackerrank.com
+  
+ 
+ 
+Problem:
+
+  Given the names and grades for each student in a class of N students, store them in a nested list and print the name(s) of any student(s) having the second lowest grade.
+  
+ 
+ 
+ Constraints:
+ 
+  -There is always more at least 2 students with the lowest grade
+  - 2 <= N <= 5
+  
+  
+ 
+Input:
+
+  First line contains integer N, then following 2N lines contain a student name on one line, then their grade on another.
+  
+ 
+ 
+ Output:
+ 
+    Print all students with the lowest grade. If there are multiple, print them in alphabetically and on seperate lines.
